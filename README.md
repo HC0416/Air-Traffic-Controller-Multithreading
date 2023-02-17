@@ -21,3 +21,8 @@
 7. At the end of the simulation, when all other processes have terminated cleanly, the ATC will do some sanity checks of the airport and print out some statistics on the run. 
 
 ### Output<br />
+<img
+  src="C:/Users/Dell/Pictures/Screenshots/Screenshot 2023-02-17 162253.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
