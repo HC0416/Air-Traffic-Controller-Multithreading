@@ -23,5 +23,8 @@
 ### Output<br />
 <img src="https://user-images.githubusercontent.com/82216057/219592380-2255619a-9b04-4b0f-ac1c-182db5ca7103.jpg" width="700" height="800">
 
-Each of the threats are running concurrently and doing its own jobs.
+Each of the threats are running concurrently and doing its own jobs. The planes requets to access the gateway and land on a gate. After the ATC checks there is empty gates, the ATC will allow the plane to access the gateway one at a time. The plane will then disembark the passengers and start filling the fuel and new passengers start to abroad. After that, it will once request the ATC to access the runway and then take off from the gate.
 
+<img src="https://user-images.githubusercontent.com/82216057/219597497-3a5410d5-da77-4632-94ca-b11e9f8a7eb6.png" width="500" height="250">
+
+After all of the planes had departed from the gateway, the ATC will then display statistics information.
