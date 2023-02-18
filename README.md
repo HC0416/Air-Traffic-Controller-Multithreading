@@ -1,8 +1,8 @@
 # Air-Traffic-Controller-Multithreading
 
-## This project had been implemented using multithreading concept to simulate an air traffic control with Java language.
+This project had been implemented using multithreading concept to simulate an air traffic control with Java language.
 
-### Simulation Details:<br />
+## Simulation Details:<br />
 1. There will be 10 planes trying to land at the airport within every 0 to 3 seconds.
 
 2. There will be only 4 gates at the airport for the planes to land on. The planes will need have the permission from Air Traffic Controller (ATC) to access the runway and land at the gate. **Only one plane can access the runway at one time.**
@@ -20,7 +20,7 @@
 
 7. At the end of the simulation, when all other processes have terminated cleanly, the ATC will do some sanity checks of the airport and print out some statistics on the run. 
 
-### Output<br />
+## Output<br />
 <img src="https://user-images.githubusercontent.com/82216057/219592380-2255619a-9b04-4b0f-ac1c-182db5ca7103.jpg" width="700" height="800">
 
 Each of the threats are running concurrently and doing its own jobs. The planes requets to access the gateway and land on a gate. After the ATC checks there is empty gates, the ATC will allow the plane to access the gateway one at a time. The plane will then disembark the passengers and start filling the fuel and new passengers start to abroad. After that, it will once request the ATC to access the runway and then take off from the gate.
